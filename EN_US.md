@@ -1,35 +1,28 @@
+<img src="./header.png" />
+
 ![Status](profile-3d-contrib/profile-night-rainbow.svg)  
 
 English
 |
 [中文](https://github.com/Groupguanfang/groupguanfang) 
 
-<br>
-
 ## About me 🌈
-Grade 2, a rubbish university student in Guangzhou,China. A TypeScript's fullstack crazier.
 
-`self-taught's technologies` & love `amination`。
+Grade 2, a rubbish university student in Guangzhou,China. A TypeScript's fullstack crazier 💥
 
-## Technologies 📲
+`self-taught's technologies` & love `ACG` 🥰
 
-![Chain](https://skillicons.dev/icons?perline=5&i=git,github)
-
-![Technology](https://skillicons.dev/icons?perline=8&i=typescript,javascript,nodejs,jquery,html,css,sass,tailwind,md,vue,react,angular,svelte,astro,nest,nextjs,nuxtjs,webpack,babel,vite,prisma,rollupjs,sequelize,bootstrap,coffeescript,deno,electron,express)
-
-![php](https://skillicons.dev/icons?perline=5&i=php,wordpress)
-
-![media](https://skillicons.dev/icons?perline=4&i=ps,pr,ai,figma)
-
-![server](https://skillicons.dev/icons?perline=8&i=linux,bash,nginx,postman,powershell,mysql,mongodb,redis)
-
-![other](https://skillicons.dev/icons?perline=8&i=replit,cloudflare,codepen,atom,vscode,idea,vim)
+<img src="./at-top.png" />
 
 ## Contact 💬
 
 ### Talk
-* QQ: 1203970284
-[Telegram@GCZ_Zero](http://t.me/GCZ_Zero)
 
-### Personal Website
-[My Blog](https://blog.xhhzs.cn)
+- QQ: 1203970284
+- [TG@GCZ_Zero](http://t.me/GCZ_Zero)
+- [Twitter](https://x.com/GCZZero)
+- [Another Twitter](https://x.com/LargerShallow)
+
+### Personal Blog
+
+[naily.cc](https://naily.cc)

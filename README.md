@@ -11,7 +11,9 @@
 
 Current work on 闪电工作室(LightningStudio)，Apple watch腕上系列（腕上浏览器，腕上B站）产品的后端开发
 
-`技术向` & `二次元`
+`技术向` & `二次元` 🥰
+
+<img src="./at-top.png" />
 
 ## 联系 💬
 
@@ -25,3 +27,4 @@ Current work on 闪电工作室(LightningStudio)，Apple watch腕上系列（腕
 ### 有空来博客坐坐
 
 [naily.cc](https://naily.cc)
+
