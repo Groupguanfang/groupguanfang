@@ -13,7 +13,7 @@ Current work on 闪电工作室(LightningStudio)，Apple watch腕上系列（腕
 
 `技术向` & `二次元` 🥰
 
-<img src="./at-top.png" />
+<img src="./at-top-v2.png" />
 
 ## 联系 💬
 
