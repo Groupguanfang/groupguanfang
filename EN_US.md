@@ -12,7 +12,7 @@ Grade 2, a rubbish university student in Guangzhou,China. A TypeScript's fullsta
 
 `self-taught's technologies` & love `ACG` 🥰
 
-<img src="./at-top.png" />
+<img src="./at-top-v2.png" />
 
 ## Contact 💬
 
