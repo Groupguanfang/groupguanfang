@@ -8,7 +8,7 @@ English
 
 ## About me 🌈
 
-Grade 2, a rubbish university student in Guangzhou,China. A TypeScript's fullstack crazier 💥
+Grade 3, a rubbish university student in Guangzhou,China. A TypeScript's fullstack crazier 💥
 
 `self-taught's technologies` & love `ACG` 🥰
 
